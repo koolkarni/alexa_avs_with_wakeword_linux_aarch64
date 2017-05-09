@@ -1,0 +1,20 @@
+{
+    "productId":"windowspi",
+    "dsn":"123456789",
+    "provisioningMethod":"companionService",
+    "wakeWordAgentEnabled":true,
+    "avsHost":"https://avs-alexa-na.amazon.com",
+    "companionApp":{
+        "localPort":8443,
+        "lwaUrl":"https://api.amazon.com",
+        "sslKeyStore":"/home/nik/Desktop/alexa-avs-sample-app/samples/javaclient/certs/server/jetty.pkcs12",
+        "sslKeyStorePassphrase":""
+    },
+    "companionService":{
+        "serviceUrl":"https://localhost:3000",
+        "sslClientKeyStore":"/home/nik/Desktop/alexa-avs-sample-app/samples/javaclient/certs/client/client.pkcs12",
+        "sslClientKeyStorePassphrase":"",
+        "sslCaCert":"/home/nik/Desktop/alexa-avs-sample-app/samples/javaclient/certs/ca/ca.crt",
+        "sessionId":"07034509-9f98-4405-b476-2af3cdc984ab"
+    }
+}

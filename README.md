@@ -1,3 +1,5 @@
+RUN ". automated_install_linux.sh "
+
 This fork removes Sensory and makes a few build file changes so the wake word engine from [KITT.AI](https://github.com/Kitt-AI/snowboy) can be used on 64-bit ubuntu machines.
 
 ## About the project

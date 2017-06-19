@@ -47,10 +47,10 @@ How is this different from the [last Amazon Alexa Pi project](https://github.com
 
 You can set up this project on the following platforms. Please choose the platform you'd like to set this up on -
 
-* [Raspberry Pi](../../wiki/Raspberry-Pi), or
-* [Linux](../../wiki/Linux), or
-* [Mac](../../wiki/Mac), or
-* [Windows](../../wiki/Windows)
-* *New!* [Raspberry Pi + Conexant 2-Mic Development Kit for Amazon AVS](../../wiki/Conexant2Mic-Raspberry-Pi)
+* [Raspberry Pi](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi), or
+* [Linux](https://github.com/alexa/alexa-avs-sample-app/wiki/Linux), or
+* [Mac](https://github.com/alexa/alexa-avs-sample-app/wiki/Mac), or
+* [Windows](https://github.com/alexa/alexa-avs-sample-app/wiki/Windows)
+* *New!* [Raspberry Pi + Conexant 2-Mic Development Kit for Amazon AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Conexant2Mic-Raspberry-Pi)
 
 ---
